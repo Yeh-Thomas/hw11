@@ -1,4 +1,4 @@
-# Machine Arm
+# Robot Arm
 
 A machine arm that can pick things up and write.
 
